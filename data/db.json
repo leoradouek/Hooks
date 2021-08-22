@@ -1,0 +1,22 @@
+{
+  "blogs": [
+      {
+        "title": "Easy breakfast foods", "body": "lorem ipsum...", 
+        "author": "Mario", 
+        "id": 1
+      },
+      {
+        "title": "Welcome to my blog!", 
+        "body": "lorem ipsum...", 
+        "author": "David", 
+        "id": 2
+      },
+      {
+        "title": "WFH tips", 
+        "body": "lorem impsum...", 
+        "author": "Mario", 
+        "id": 3
+      }
+    ]
+}
+

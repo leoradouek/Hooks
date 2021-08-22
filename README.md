@@ -1,3 +1,3 @@
 # About
 
-The purpose of this repository was to learn React Hooks
+The purpose of this repository is to learn React Hooks
